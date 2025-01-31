@@ -6,4 +6,4 @@ nginx:stable
 docker.io/library/node:16-alpine
 python:3.9-slim
 owncloud/server:10.15.0
-doube-itv
+doubebly/doube-itv
