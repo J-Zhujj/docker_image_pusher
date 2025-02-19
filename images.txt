@@ -10,9 +10,10 @@
 # python:3.12-slim-bookworm
 # node:20-alpine3.20
 # searxng/searxng
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
+# postgres:15-alpine
+# redis:6-alpine
+# langgenius/dify-sandbox:0.2.10
+# ubuntu/squid:latest
+# nginx:latest
+# semitechnologies/weaviate:1.19.0
+searxng/searxng
