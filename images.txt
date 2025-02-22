@@ -16,4 +16,5 @@
 # ubuntu/squid:latest
 # nginx:latest
 # semitechnologies/weaviate:1.19.0
-searxng/searxng
+# searxng/searxng
+neo4j:community-ubi9
