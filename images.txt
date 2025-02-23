@@ -17,4 +17,5 @@
 # nginx:latest
 # semitechnologies/weaviate:1.19.0
 # searxng/searxng
-neo4j:community-ubi9
+# neo4j:community-ubi9
+neo4j:latest
