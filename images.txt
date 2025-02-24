@@ -19,4 +19,5 @@
 # searxng/searxng
 # neo4j:community-ubi9
 # neo4j:latest
-neo4j:3.5.22-community
+# neo4j:3.5.22-community
+dockurr/macos
