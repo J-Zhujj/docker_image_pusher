@@ -24,4 +24,5 @@
 # python:3.11-slim
 # marpteam/marp-cli
 # zlmediakit/zlmediakit:master
-langgenius/dify-plugin-daemon:0.0.3-local
+# langgenius/dify-plugin-daemon:0.0.3-local
+langgenius/dify-plugin-daemon:e0672c3c1a6451437e8f4b63b260c8b0863c9c80-local
