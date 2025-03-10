@@ -25,4 +25,5 @@
 # marpteam/marp-cli
 # zlmediakit/zlmediakit:master
 # langgenius/dify-plugin-daemon:0.0.3-local
-langgenius/dify-plugin-daemon:ba80dcc78d990a90b69f719c76fcbb214e366dd6-local
+# langgenius/dify-plugin-daemon:ba80dcc78d990a90b69f719c76fcbb214e366dd6-local
+mysql:5.7.39
