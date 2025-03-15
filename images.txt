@@ -29,4 +29,5 @@
 # mysql:5.7.39
 # langgenius/dify-api:1.0.0
 # langgenius/dify-web:1.0.0
-langgenius/dify-plugin-daemon:0.0.4-local
+# langgenius/dify-plugin-daemon:0.0.4-local
+python:3.12-slim
