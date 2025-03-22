@@ -33,5 +33,6 @@
 # python:3.12-slim
 # alpine:latest
 # python:3.9-slim
-langgenius/dify-api:1.1.2
-langgenius/dify-web:1.1.2
+# langgenius/dify-api:1.1.2
+# langgenius/dify-web:1.1.2
+nvidia/cuda:12.1.0-base-ubuntu22.04
