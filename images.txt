@@ -35,4 +35,5 @@
 # python:3.9-slim
 # langgenius/dify-api:1.1.2
 # langgenius/dify-web:1.1.2
-nvidia/cuda:12.1.0-base-ubuntu22.04
+# nvidia/cuda:12.1.0-base-ubuntu22.04
+langgenius/dify-plugin-daemon:0.0.6-local
