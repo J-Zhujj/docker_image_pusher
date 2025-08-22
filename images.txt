@@ -44,4 +44,5 @@
 # registry.cn-hangzhou.aliyuncs.com/ali-zhujiajian/
 # unclecode/crawl4ai:all
 # opencoze/opencoze:latest
-nsqio/nsq:v1.2.1
+# nsqio/nsq:v1.2.1
+triliumnext/trilium:main
