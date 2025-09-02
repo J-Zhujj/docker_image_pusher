@@ -45,4 +45,5 @@
 # unclecode/crawl4ai:all
 # opencoze/opencoze:latest
 # nsqio/nsq:v1.2.1
-triliumnext/trilium:main
+# triliumnext/trilium:main
+ghcr.io/home-assistant/aarch64-hassio-supervisor:latest
