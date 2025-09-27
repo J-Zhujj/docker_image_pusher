@@ -46,4 +46,5 @@
 # opencoze/opencoze:latest
 # nsqio/nsq:v1.2.1
 # triliumnext/trilium:main
-ghcr.io/home-assistant/aarch64-hassio-supervisor:latest
+# ghcr.io/home-assistant/aarch64-hassio-supervisor:latest
+rockchin/langbot:latest
